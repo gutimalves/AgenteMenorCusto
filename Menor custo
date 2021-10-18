@@ -30,7 +30,9 @@ class Environment:
                 'goal': self.goal}
 
 class AgentMenorCusto:
-    
+    - Agente identifica os custos dos caminhos, utilizando o valor de cada aresta;
+    - Escolhe menor caminho;
+    - Executa menor caminho.
 
         
         return []
